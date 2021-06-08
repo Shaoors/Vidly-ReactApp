@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React from "react";
 
 //we need input Property "liked boolean"
 //output :onclick
